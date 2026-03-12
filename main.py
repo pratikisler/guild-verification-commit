@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-12T13:07:36.589Z
+Timestamp: 2026-03-12T13:32:50.527Z
 Commit: Fix broken links in documentation
